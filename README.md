@@ -1,6 +1,6 @@
 # desafios-front
 
-1 - Desenvolver um grid simples com flex-box. Ex:
+1 - Desenvolver um grid responsivo simples com flex-box. Ex:
 <p align='left'>
 <img src='grid.png' />
 </p>
