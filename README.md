@@ -32,11 +32,17 @@
 <p align='left'>
    <img src='efeito.png' />
 </p>
-9 - Crie um slide com 3 imagens e quando clicar abrir um modal
 
-10 - Criar um Modal utilizando js
+9 - Criar esse efeito no card
+https://codepen.io/diegoslva/pen/OJbwjYo
+<p align='left'>
+   <img src='efeito-2.png' />
+</p>
+10 - Crie um slide com 3 imagens e quando clicar abrir um modal
 
-11 - Crie o mesmo Modal apenas com CSS (opcional, porém, caso o faça irá ganhar bastante experiencia com css)
+11 - Criar um Modal utilizando js
+
+12 - Crie o mesmo Modal apenas com CSS (opcional, porém, caso o faça irá ganhar bastante experiencia com css)
 
 
 LIVRO HTML CSS 
