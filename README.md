@@ -1,8 +1,9 @@
 # desafios-front
 
 1 - Desenvolver um grid simples com flex-box. Ex:
+<p align='left'>
 <img src='grid.png' />
-
+</p>
 2 - Formatar o mesmo texto "Desenvolvimento front end" para que fique nos seguintes formatos: 
    https://codepen.io/diegoslva/pen/mdOjMKq
   - TUDO MAISCULO
@@ -24,11 +25,13 @@
   </p>
 
 7 - Crie um card com seguindo o mesmo estilo
+<p align='left'>
 <img src='image.png'/>
-
+</p>
 8 - Crie esse efeito com css (pode ser qualquer outra imagem no lugar do relogio)
-  <img src='efeito.png' />
-
+<p align='left'>
+   <img src='efeito.png' />
+</p>
 9 - Crie um slide com 3 imagens e quando clicar abrir um modal
 
 10 - Criar um Modal utilizando js
