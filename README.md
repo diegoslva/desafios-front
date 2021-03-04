@@ -29,6 +29,7 @@
 <img src='image.png'/>
 </p>
 8 - Crie esse efeito com css (pode ser qualquer outra imagem no lugar do relogio)
+..mandar link do codepen
 <p align='left'>
    <img src='efeito.png' />
 </p>
