@@ -29,11 +29,11 @@
 8 - Crie esse efeito com css (pode ser qualquer outra imagem no lugar do relogio)
   <img src='efeito.png' />
 
-8 - Crie um slide com 3 imagens e quando clicar abrir um modal
+9 - Crie um slide com 3 imagens e quando clicar abrir um modal
 
-9 - Criar um Modal utilizando js
+10 - Criar um Modal utilizando js
 
-10 - Crie o mesmo Modal apenas com CSS (opcional, porém, caso o faça irá ganhar bastante experiencia com css)
+11 - Crie o mesmo Modal apenas com CSS (opcional, porém, caso o faça irá ganhar bastante experiencia com css)
 
 
 LIVRO HTML CSS 
